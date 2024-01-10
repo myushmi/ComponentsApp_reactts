@@ -1,0 +1,33 @@
+.button {
+	font-family: inherit;
+	cursor: pointer;
+	transition: background 0.25s;
+	border: none;
+	color: var(--white-color);
+	border-radius: 30px;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 400;
+	height: 40px;
+	flex-shrink: 0;
+}
+
+.small {
+	width: 140px;
+	font-size: 16px;
+}
+
+.big {
+	width: 400px;
+	font-size: 20px;
+}
+
+.accent {
+	background: var(--text-color);
+}
+
+.accent:hover {
+	background: var(--primary-hover-color);
+}

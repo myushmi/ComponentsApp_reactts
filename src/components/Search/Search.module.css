@@ -1,0 +1,25 @@
+.input {
+	width: 400px;
+	height: 40px;
+	flex-shrink: 0;
+	border-radius: 30px;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	line-height: normal;
+	color: var(--text-color);
+	border: 1px solid rgba(220, 220, 220);
+	background: #ffffff;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.input-wrapper {
+	position: relative;
+}
+
+.icon {
+	position: absolute;
+	right: 101%;
+	top: 8%;
+}

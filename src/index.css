@@ -1,0 +1,14 @@
+:root {
+	--font: "Krona One", sans-serif;
+	--primary-color: #ff0000;
+	--primary-hover-color: #000000;
+	--text-color: #000000;
+	--text-secondary-color: #dcdcdc;
+	--white-color: #ffffff;
+	--separator-color: #dcdcdc;
+}
+
+body {
+	font-family: "Krona One", sans-serif;
+	margin: 0;
+}

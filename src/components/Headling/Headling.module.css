@@ -1,0 +1,8 @@
+.h1 {
+	color: var(--primary-hover-color);
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin: 0;
+}

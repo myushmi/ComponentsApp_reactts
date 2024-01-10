@@ -1,0 +1,106 @@
+.head {
+	position: relative;
+}
+
+.card {
+	background-color: black;
+	border-radius: 30px;
+	width: 400px;
+	height: 200px;
+	flex-shrink: 0;
+}
+
+.footer {
+	padding: 12px;
+}
+
+.head {
+	border-radius: 30px;
+	background-color: red;
+	width: 400px;
+	height: 140px;
+	text-decoration: none;
+}
+
+.price {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	border-radius: 30px;
+	background-color: white;
+	width: 90px;
+	height: 40px;
+	text-align: center;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	vertical-align: bottom;
+	text-decoration: none;
+}
+
+.price-number {
+	margin: 9px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.rating {
+	position: absolute;
+	border-radius: 30px;
+	background-color: white;
+	width: 60px;
+	height: 30px;
+	text-align: center;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	bottom: -15px;
+	left: 35px;
+	text-decoration: none;
+}
+
+.rating-number {
+	margin: 5px;
+	text-decoration: none;
+}
+
+.add-to-cart {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	background-color: rgba(28, 28, 28, 0);
+	border: none;
+	border-radius: 30px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.title {
+	position: relative;
+	text-align: center;
+	font-family: Krona One;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: white;
+	right: -51px;
+	text-decoration: none;
+}
+
+.description {
+	text-align: center;
+	font-family: Krona One;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	color: var(--text-secondary-color);
+	text-decoration: none;
+}
+
+.link1 {
+	text-decoration: none;
+}
